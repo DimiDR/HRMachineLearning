@@ -8,4 +8,6 @@ pip install pandas - data formating
 
 pip install xlrd - excel read
 
-pip install matplotlib - platting
+pip install openpyxl - write to xlsx
+
+pip install matplotlib - plotting
