@@ -13,3 +13,5 @@ pip install openpyxl - write to xlsx
 pip install matplotlib - plotting
 
 pip install datetime - just for update of library
+
+pip install CurrencyConverter - convert currency
